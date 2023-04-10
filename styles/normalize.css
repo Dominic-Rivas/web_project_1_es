@@ -10,6 +10,11 @@
  * 2. Previene los ajustes del tamaño de la fuente tras los cambios de orientación en iOS. 
  */
 
+* {
+    box-sizing: border-box;
+    
+}
+
 html {
     line-height: 1.15;
     /* 1 */
@@ -94,7 +99,7 @@ pre {
 a {
     background-color: transparent;
 }
-
+    
 
 /**
    * 1. Elimina el borde del botón en Chrome 57- 

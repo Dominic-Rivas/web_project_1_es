@@ -1,0 +1,11 @@
+.two-columns__brief {
+  gap: 30px;
+  line-height: 1.2;
+  font-size: 18px;
+  width: 175px;
+  font-weight: normal;
+  color: #2F80ED;
+  left: 100px;
+  margin: 0;
+
+}
