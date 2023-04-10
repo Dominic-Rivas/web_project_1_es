@@ -2,9 +2,7 @@
 
 ## Spring 2
 
-Alt-H1
-
-Web Project es un proyecto de una sola página, en el que se incorporan animaciones, transformaciones, transiciones, e incrustación de videos mediante iframes.  
+**Web Project** es un proyecto de una sola página, en el que se incorporan animaciones, transformaciones, transiciones, e incrustación de videos mediante iframes.  
 
 **Cuenta con 10 secciones:**
 
@@ -20,7 +18,7 @@ Web Project es un proyecto de una sola página, en el que se incorporan animacio
 10. Resources.
 11. Footer.
 
-_En cuanto a su estructura esta diseñado principalmente en Flexbox._
+_En cuanto a su estructura esta diseñado principalmente en **Flexbox**._
 
 A diferencia de la primera versión del proyecto, en esta oportunidad los archivos y directorios estan organizados según **_BEM_**.
 
