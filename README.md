@@ -1,8 +1,8 @@
-# WEB PROJECT (Firs Project)
+# WEB PROJECT (First Project)
 
 ## Spring 2
 
-**Web Project** es un proyecto de una sola página, en el que se incorporan animaciones, transformaciones, transiciones, e incrustación de videos mediante iframes.  
+**Web Project** es un proyecto de una sola página, en esta nueva versión, además de textos, imágenes y enlaces, se incorporan animaciones, transformaciones, transiciones, e incrustación de videos mediante iframes.  
 
 **Cuenta con 10 secciones:**
 
